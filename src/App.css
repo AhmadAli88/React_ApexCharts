@@ -1,0 +1,18 @@
+.App{
+  display: flex;
+  align-items: center;
+  gap: 50px;
+  justify-content: space-between;
+  width: 100%;
+  flex-wrap: wrap;
+  border: 1px solid;
+
+}
+:root{
+  width: 100%;
+  overflow-x: hidden;
+  
+}
+#root{
+  padding: 100px;
+}
